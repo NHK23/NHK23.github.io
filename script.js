@@ -3,7 +3,7 @@ $(document).ready(function () {
         {   
             question: "Are CPR, artificial respiration, and AED related?",        
             options: ["A.Yes", "B.No"],
-            answer: "Yes, CPR is a hands-on rescue before getting the AED. The latest AHA guidelines state that artificial respiration may not be necessary, but CPR should be continued until the AED arrives, a doctor arrives, or the person's breathing and consciousness are restored.",
+            answer: "Answer: Yes, CPR is a hands-on rescue before getting the AED. The latest AHA guidelines state that artificial respiration may not be necessary, but CPR should be continued until the AED arrives, a doctor arrives, or the person's breathing and consciousness are restored.",
         },
         {
             question: "Do you need to determine the person's consciousness and breathing before performing CPR? How?",
