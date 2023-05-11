@@ -130,7 +130,7 @@ $(document).ready(function () {
                 $(".container").removeClass("d-flex align-items-center justify-content-center").addClass("pt-5");
     
                 // Redirect to main.html
-                window.location.href = "../main/main.html";
+                window.location.href = "main.html";
             });
         } else {
             $nextQuestionBtn.text("Next Question");
