@@ -48,7 +48,7 @@ $(document).ready(function () {
         {
             question: "What position should a person be in after their breathing is restored?",
             options: ["A.Lying flat", "B.Recovery position", "C.Prone", "D.Sitting up"],
-            answer: "Answer: Recovery position",
+            answer: "Answer: Recovery position.",
         },
     ];
 
